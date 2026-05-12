@@ -182,4 +182,4 @@ projet-sdd-rendements-agricoles/
 
 ---
 
-*Projet académique — Université d'Artois, Master 1 Informatique parcours Data Science (2025–2026)*
+*Projet académique — Université d'Artois, Master 1 Informatique (2025–2026)*
