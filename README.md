@@ -1,7 +1,7 @@
 # Analyse des facteurs influençant le rendement des cultures agricoles mondiales
 
 > **Étude Data Science pour la Coopérative agricole InVivo**
-> Master 1 Informatique parcours Data Science — Université d'Artois (2025–2026)
+> Master 1 Informatique — Université d'Artois (2025–2026)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-data%20analysis-150458.svg)](https://pandas.pydata.org/)
@@ -174,7 +174,7 @@ projet-sdd-rendements-agricoles/
 
 ## Contact
 
-**Aboubacar Sidiki YATTARA** — Étudiant M1 Data Science à la recherche d'une alternance.
+**Aboubacar Sidiki YATTARA** · Étudiant en Master 1 Informatique, parcours Intelligence Artificielle, à la recherche d'un stage Data Science / IA (2 à 6 mois, dès mars 2027).
 
 - 📧 sidikiyattara07@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/aboubacar-sidiki-yattara-943456239/)
